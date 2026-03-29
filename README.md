@@ -1,4 +1,5 @@
 # RepairLens
+By - Team Ome Eight Eight 
 
 AI-powered Snapchat AR Lens for repair shops. Detects device damage, shows AR overlays, explains repairs, and estimates costs — in English, Hindi, and Tamil.
 
